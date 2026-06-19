@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f2f2f2;
+}
+
+
+#produtos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.produto {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
