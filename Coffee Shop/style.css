@@ -23,3 +23,12 @@ button {
     padding: 10px;
     cursor: pointer;
 }
+
+.card{
+    width: 300px;
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}

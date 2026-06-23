@@ -31,7 +31,7 @@ function mostrarProdutos(){
         <img src="${produto.imagem}">
 
         <h3>${produto.nome}</h3>
-
+        
         <p>R$ ${produto.preco}</p>
 
 
